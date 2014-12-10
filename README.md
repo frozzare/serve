@@ -18,3 +18,5 @@ Usage of serve:
 	-port=9000: Define what TCP port to bind to
 	-root=".": Define the root filesystem path
 ```
+
+![Terminal](terminal.png)

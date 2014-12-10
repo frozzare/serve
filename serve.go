@@ -48,6 +48,7 @@ func printServeLine() {
 	println()
 }
 
+// Logging requested file to terminal
 func logging(h http.Handler) http.HandlerFunc {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		upath := r.URL.Path
