@@ -20,3 +20,7 @@ Usage of serve:
 	-port=9000: Define what TCP port to bind to
 	-root=".": Define the root filesystem path
 ```
+
+## License
+
+MIT © [Fredrik Forsmo](https://github.com/frozzare)
